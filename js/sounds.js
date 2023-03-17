@@ -11,7 +11,7 @@ sounds.forEach(sound => {
     document.getElementById('buttons').appendChild(btn)
 })
 
-functipn stopSongs() {
+function stopSongs() {
     sounds.forEach(sound => {
         const song = document.getElementById(sound)
         song.pause()
