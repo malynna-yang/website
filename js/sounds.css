@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: rgb(161, 100, 223);
+    display: flex;
+    align-itmes: center;
+    justify-content: center;
+    height: 100vh;
+    text-align: center:
+    margin: 0;
+    overflow: hidden;
+}
+
+.btn {
+    background-color: rebeccapurple;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursour: pointer;
+    margin: 1rem;
+
+}
