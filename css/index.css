@@ -1,5 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=ABeeZee&display=swap');
 
+:root {
+    --do: darkorchid;
+}
+
 body {
     font-family: 'ABeeZee', sans-serif;
     background-color: thistle;
@@ -21,31 +25,31 @@ body {
 }
 
 .button-load {
-    background-color: white;
+    background-color: var(--do);
     border: 0;
     padding: 10px;
 }
 
 .button-expand {
-    background-color: white;
+    background-color: var(--do);
     border: 0;
     padding: 10px;
 }
 
 .button-nav {
-    background-color: white;
+    background-color: var(--do);
     border: 0;
     padding: 10px;
 }
 
 .button-progress {
-    background-color: white;
+    background-color: var(--do);
     border: 0;
     padding: 10px;
 }
 
 .button-search {
-    background-color: white;
+    background-color: var(--do);
     border: 0;
     padding: 10px;
 }
