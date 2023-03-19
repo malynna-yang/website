@@ -1,8 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=ABeeZee&display=swap');
 
 :root {
-    --do: darkorchid;
+    --do: mediumorchid;
 }
+
+
 
 body {
     font-family: 'ABeeZee', sans-serif;
@@ -60,5 +62,5 @@ body {
     left: 0;
     height: 70px;
     width: 70px;
-    border-radius: 50px;
+    border-radius: 20px;
 }
