@@ -11,16 +11,41 @@ body {
     overflow: hidden;
 }
 
-.button {
+.button-stuff{
     display: flex;
     justify-content: space-between;
     position: relative;
     margin-bottom: 30px;
     width: 350px;
     max-width: 100%;
+}
 
+.button-load {
     background-color: white;
     border: 0;
     padding: 10px;
+}
 
+.button-expand {
+    background-color: white;
+    border: 0;
+    padding: 10px;
+}
+
+.button-nav {
+    background-color: white;
+    border: 0;
+    padding: 10px;
+}
+
+.button-progress {
+    background-color: white;
+    border: 0;
+    padding: 10px;
+}
+
+.button-search {
+    background-color: white;
+    border: 0;
+    padding: 10px;
 }
