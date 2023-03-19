@@ -17,6 +17,7 @@ body {
 .search {
     height: 50px;
     position: relative;
+    color: white;
 }
 
 .search input {
@@ -46,7 +47,6 @@ body {
 
 .search.active .input {
     width: 200px;
-    color: white;
 }
 
 .search.active .btn {
