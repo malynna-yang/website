@@ -4,8 +4,6 @@
     --do: mediumorchid;
 }
 
-
-
 body {
     font-family: 'ABeeZee', sans-serif;
     background-color: thistle;
@@ -63,4 +61,5 @@ body {
     height: 70px;
     width: 70px;
     border-radius: 20px;
+    cursor: pointer;
 }
