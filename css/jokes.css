@@ -2,4 +2,11 @@
 
 body {
     font-family: 'Poppins', sans-serif;
+    background-color: thistle;
+    display: flex;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+    margin = 0;
+    overflow: hidden;
 }
