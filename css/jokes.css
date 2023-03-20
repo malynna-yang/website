@@ -10,3 +10,7 @@ body {
     margin = 0;
     overflow: hidden;
 }
+
+.joke {
+    max-width: 400px;
+}
