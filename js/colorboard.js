@@ -1,4 +1,4 @@
-const container = document.getElementByID('container')
+const container = document.getElementById('container')
 const colors = ['#dda0d', '#ee82ee', '#da70d6', '#ba55d3', '#9932cc']
 const SQUARES = 500
 
