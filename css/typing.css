@@ -15,7 +15,8 @@ body {
 div {
     position: absolute;
     bottom: 20px;
-    background: rgba(0,0,0,0.1)
+    background: rgba(0,0,0,0.1);
+    border-radius: 15px;
     padding: 10px 20px;
     font-size: 18px;
 }
@@ -25,6 +26,6 @@ input {
     padding: 5px;
     font-size: 18px;
     background-color: #8e44ad;
-    boarder: none;
+    border: none;
     text-align: center;
 }
