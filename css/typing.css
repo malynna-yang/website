@@ -11,3 +11,9 @@ body {
     overflow: hidden;
     margin: 0;
 }
+
+div {
+    position: absolute;
+    bottom: 20px;
+    background: rgba(0,0,0,1)
+}
