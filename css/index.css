@@ -20,7 +20,8 @@ body {
     justify-content: space-between;
     position: relative;
     margin-bottom: 30px;
-    width: 400px;
+    width: 265px;
+    height: 265px;
     background: rgba(0,0,0,0.2);
     border-radius: 15px;
     padding: 10px 20px;
