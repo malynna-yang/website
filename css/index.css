@@ -21,10 +21,10 @@ body {
     position: relative;
     margin-bottom: 30px;
     width: 23vw;
-    height: 46vh;
+    height: 47vh;
     background: rgba(0,0,0,0.3);
     border-radius: 15px;
-    padding: 1.5vh;
+    padding: 1.7vh;
 }
 
 .button {
@@ -50,5 +50,6 @@ body {
 .btn {
     background-color: transparent;
     border: none;
-    
+    font-size: 12px;
+    color: 
 }
