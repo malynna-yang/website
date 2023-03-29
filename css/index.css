@@ -47,10 +47,22 @@ body {
     position: relative;
 }
 
-.btn {
+.btn1 {
     background-color: transparent;
     border: none;
     font-size: 12px;
-    color: rgb(72,72,72);
-    
+    color: rgb(169,169,169);
+    position: absolute;
+    top: 69.6%;
+    left: 48%;
+}
+
+.btn2 {
+    background-color: transparent;
+    border: none;
+    font-size: 12px;
+    color: white;
+    position: absolute;
+    top: 69.6%;
+    left: 50%;
 }
