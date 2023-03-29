@@ -20,9 +20,9 @@ body {
     justify-content: space-between;
     position: relative;
     margin-bottom: 30px;
-    width: 36vw;
-    height: 36vh;
-    background: rgba(0,0,0,0.2);
+    width: 23vw;
+    height: 46vh;
+    background: rgba(0,0,0,0.3);
     border-radius: 15px;
     padding: 1.5vh;
 }
