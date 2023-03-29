@@ -16,14 +16,15 @@ body {
 
 .button-stuff{
     display: flex;
+    flex-wrap: wrap;
     justify-content: space-between;
     position: relative;
     margin-bottom: 30px;
-    width: 265px;
-    height: 265px;
+    width: 36vw;
+    height: 36vh;
     background: rgba(0,0,0,0.2);
     border-radius: 15px;
-    padding: 10px 20px;
+    padding: 1.5vh;
 }
 
 .button {
