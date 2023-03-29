@@ -58,8 +58,9 @@ body {
     padding: 10px;
     margin: 10px;
     position: absolute;
-    top: 4%;
+    top: 3.45%;
     left: 3%;
+    z-index: -1;
 }
 
 .button2 button i {
