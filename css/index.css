@@ -57,6 +57,9 @@ body {
     cursor: pointer;
     padding: 10px;
     margin: 10px;
+    position: absolute;
+    top: 4%;
+    left: 3%;
 }
 
 .button2 button i {
