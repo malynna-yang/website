@@ -41,9 +41,14 @@ body {
 
 .button button i {
     font-size: 40px;
-    background: transparent;
+    background-color: transparent;
     border: 0;
     cursor: pointer;
     position: relative;
 }
 
+.btn {
+    background-color: transparent;
+    border: none;
+    position: relative;
+}
