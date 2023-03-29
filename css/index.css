@@ -47,23 +47,3 @@ body {
     position: relative;
 }
 
-.button2 {
-    background-color: var(--do);
-    border: 0;
-    cursor: pointer;
-    height: 50px;
-    width: 50px;
-    border-radius: 20px;
-    cursor: pointer;
-    padding: 10px;
-    margin: 10px;
-    positon: 
-}
-
-.button2 button i {
-    font-size: 40px;
-    background: transparent;
-    border: 0;
-    cursor: pointer;
-    position: relative;
-}
