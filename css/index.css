@@ -39,6 +39,10 @@ body {
     margin: 10px;
 }
 
+i::before{
+    background:transparent;
+}
+
 .button button i {
     font-size: 40px;
     background-color: transparent;
