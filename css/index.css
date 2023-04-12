@@ -39,18 +39,20 @@ body {
     margin: 10px;
 }
 
+button {
+    background: transparent;
+}
 
 
 .button button i {
     font-size: 40px;
-    background: transparent;
     border: 0;
     cursor: pointer;
     position: relative;
 }
 
 .button2 {
-    background-color: var(--do);
+
     border: 0;
     cursor: pointer;
     height: 50px;
