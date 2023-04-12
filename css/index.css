@@ -37,6 +37,7 @@ body {
     cursor: pointer;
     padding: 10px;
     margin: 10px;
+    
 }
 
 button {
@@ -86,6 +87,10 @@ button {
     left: 48%;
 }
 
+.btn.active {
+    transition: 0.1s;
+}
+
 .btn2 {
     background-color: transparent;
     border: none;
@@ -94,4 +99,8 @@ button {
     position: absolute;
     top: 69.6%;
     left: 50%;
+}
+
+.btn2.active {
+    transition: 0.1s;
 }
