@@ -41,8 +41,9 @@ body {
 
 button {
     background: transparent;
-}
+    border: 0;
 
+}
 
 .button button i {
     font-size: 40px;
@@ -52,7 +53,7 @@ button {
 }
 
 .button2 {
-
+    background-color: var(--do);
     border: 0;
     cursor: pointer;
     height: 50px;
