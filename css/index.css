@@ -63,7 +63,7 @@ body {
     z-index: -1;
 }
 
-.button2 button i {
+.button2 i {
     font-size: 40px;
     background-color: transparent;
     border: 0;
