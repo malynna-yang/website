@@ -80,18 +80,19 @@ button {
 .btn1 {
     border: none;
     font-size: 12px;
-    bacckground-color: black;
+    color: lightgrey;
     position: absolute;
     top: 69.6%;
     left: 48%;
-    z
+    z-index: 1;
 }
 
 .btn2 {
     border: none;
     font-size: 12px;
-    background-color: black;
+    color: lightgrey;
     position: absolute;
     top: 69.6%;
     left: 50%;
+    z-index: 1;
 }
