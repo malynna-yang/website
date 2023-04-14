@@ -4,9 +4,8 @@ const pg1 = document.querySelectorAll('.button')
 const pg2 = document.querySelectorAll('.button2')
 
 btn1.addEventListener('click', () => {
-    CSStyleDeclaration.removeProperty('z-index')
-
-    btn1.style.z-index = "1";
+    console.log('click')
+    btn1.style.zIndex = "1";
 })
 
 btn2.addEventListener('click', () => {
