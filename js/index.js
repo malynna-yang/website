@@ -6,7 +6,7 @@ const pg2 = document.querySelectorAll('.button2')
 btn1.addEventListener('click', () => {
     CSStyleDeclaration.removeProperty('z-index')
 
-    el.style.z-index = "1";
+    btn1.style.z-index = "1";
 })
 
 btn2.addEventListener('click', () => {
