@@ -85,6 +85,7 @@ button {
     top: 69.6%;
     left: 48%;
     z-index: 1;
+    cursor: pointer;
 }
 
 .btn2 {
@@ -95,4 +96,5 @@ button {
     top: 69.6%;
     left: 50%;
     z-index: 1;
+    cursor: pointer;
 }
