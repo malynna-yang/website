@@ -3,11 +3,11 @@ const btn2 = document.getElementById('2')
 const pg1 = document.querySelectorAll('.button')
 const pg2 = document.querySelectorAll('.button2')
 
-console.log(pg1)
+pg1.style.zIndex = '1'
 
 btn1.addEventListener('click', () => {
     console.log('click')
-    pg1.style.zIndex = "1";
+    pg1.style.backgroundColor = "green";
 })
 
 btn2.addEventListener('click', () => {
