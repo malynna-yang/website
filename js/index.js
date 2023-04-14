@@ -5,6 +5,7 @@ const pg2 = document.querySelectorAll('.button2')
 
 pg1.style.zIndex = '1'
 
+
 btn1.addEventListener('click', () => {
     console.log('click')
     pg1.style.backgroundColor = "green";
