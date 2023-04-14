@@ -3,7 +3,7 @@ const btn2 = document.getElementById('2')
 const pg1 = document.querySelectorAll('.button')
 const pg2 = document.querySelectorAll('.button2')
 
-pg1.style.zIndex = '1'
+pg2.style.backgroundColor = 'green'
 
 
 btn1.addEventListener('click', () => {
