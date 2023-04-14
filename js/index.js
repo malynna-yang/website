@@ -4,7 +4,7 @@ const pg1 = document.querySelectorAll('.button')
 const pg2 = document.querySelectorAll('.button2')
 
 btn1.addEventListener('click', () => {
-
+    
 })
 
 btn2.addEventListener('click', () => {
