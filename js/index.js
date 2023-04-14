@@ -1,7 +1,6 @@
-const progress = document.getElementById('progress')
-const prev = document.getElementById('prev')
-const next = document.getElementById('next')
-const circles = document.querySelectorAll('.circle')
+const btn1 = document.getElementById('btn1')
+const btn2 = document.getElementById('btn2')
+const button = document.querySelectorAll('.button')
 
 
 let currentActive = 1
