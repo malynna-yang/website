@@ -37,7 +37,7 @@ body {
     cursor: pointer;
     padding: 10px;
     margin: 10px;
-    z-index: -1;
+    z-index: 1;
 }
 
 button {
@@ -65,8 +65,8 @@ button {
     margin: 10px;
     position: absolute;
     top: 3.45%;
-    left: 3%;
-
+    left: 3.25%;
+    z-index: -1;
 }
 
 .button2 i {
